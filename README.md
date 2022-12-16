@@ -6,7 +6,10 @@
 
 # DESCRIPCIÓN DEL PROYECTO :
 
-El siguiente proyecto tiene como objetivo predecir si un paciente estará hospitalizado más de 8 dias o no, por lo cual se cuenta con una data de 410000 registros, para el cual se aplicó modelos de clasificación en busca de obtener métricas "recall" y "accuracy" mayor a 70%.<br>
+El siguiente proyecto tiene como objetivo predecir si un paciente estará hospitalizado más de 8 dias o no, por lo cual se cuenta con una data de 410000 registros, para el cual se aplicó modelos de clasificación en busca de obtener métricas "recall" y "accuracy" mayor a 70%.
+<br>
+El código utilizado para el presente proyecto se encuentra en el archivo "ProyectoML.ipynb"
+<br>
 <br>
 
 # FEATURE ENGINEER :
