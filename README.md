@@ -44,7 +44,7 @@ El siguiente proyecto tiene como objetivo predecir si un paciente estará hospit
 - Se comprueba este resultado con un "cross validation" con "CV"=5, para el mismo modelo.
 - Usando este modelo se predice usando como datos de entrada el 30% de datos seleccionados como testeo durante el proceso de "split" ,obteniendo las siguientes métricas:
      - 'accuracy' > 75%
-    - 'recall' > 80 
+    - 'recall' > 80% 
 - Estas metricas superan lo esperado, lo cual podemos concluir que el modelo trabaja eficentemente y es óptimo para su uso.
 <p align="center">
 <img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/resultadoML.jpg"  height=100>
