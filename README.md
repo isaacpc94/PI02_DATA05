@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/MChospital.jpg"  height=300><br>
+<img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/MChospital.jpg"  height=300><br><br>
 
 # DESCRIPCIÓN DEL PROYECTO :
 
-El siguiente proyecto tiene como objetivo predecir si un paciente estará hospitalizado más de 8 dias o no, por lo cual se cuenta con una data de 90000 registros, para el cual se aplicó modelos de clasificación en busca de obtener métricas "recall" y "accuracy" mayor a 70%.<br>
+El siguiente proyecto tiene como objetivo predecir si un paciente estará hospitalizado más de 8 dias o no, por lo cual se cuenta con una data de 410000 registros, para el cual se aplicó modelos de clasificación en busca de obtener métricas "recall" y "accuracy" mayor a 70%.<br>
 <br>
 
 # FEATURE ENGINEER :
@@ -31,7 +31,8 @@ El siguiente proyecto tiene como objetivo predecir si un paciente estará hospit
     Las 3 últimas muestras no presentan outliers en el feature "Admission_Deposit".
     - Dataframe con todas las features
     - Dataframe excluyendo las features con un factor de correlacion <0.1 .
-    - Dataframe excluyendo las features con un factor de correlacion <0.01 .<br>
+    - Dataframe excluyendo las features con un factor de correlacion <0.01 .
+<br>
 <br>
 
 # MODELING:
@@ -46,7 +47,8 @@ El siguiente proyecto tiene como objetivo predecir si un paciente estará hospit
     - 'recall' > 80 
 - Estas metricas superan lo esperado, lo cual podemos concluir que el modelo trabaja eficentemente y es óptimo para su uso.
 <p align="center">
-<img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/resultadoML.jpg"  height=100><br>
+<img src="https://raw.githubusercontent.com/isaacpc94/PI02_DATA05/main/images/resultadoML.jpg"  height=100>
+<br><br>
 
 
 # PREDICTION : 
